@@ -4,7 +4,7 @@ import { slot } from 'expo-router';
 const RootLayout = () => {
   return (
 	<View style={styles.container}>
-	  <Text>RootLayout</Text>
+	  <Text>RootLayout.</Text>
 	</View>
   )
 }
